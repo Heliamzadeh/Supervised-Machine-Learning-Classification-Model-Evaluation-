@@ -114,10 +114,4 @@ The project highlights why **model evaluation is as important as model training*
 - Performance evaluation
 - Analytical reasoning in ML workflows
 
----
 
-## Project Structure
-
-```text
-├── Session09_HELIA_MAHMOODZADEH_261224416_InClass_Exercise_StartingFile.ipynb
-├── README.md
